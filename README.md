@@ -1,4 +1,4 @@
-IHC-Prototipo-GUI-INF-UFG
+![INF_logo](HTML pages/HTML-INF-Desktop/images/1134dba0-ca93-4690-b311-af27a97fe42a.png) IHC-Prototipo-GUI-INF-UFG
 ==============================================
 Protótipo de interface gráfica para o site do Instituto de Informática / UFG apresentado como trabalho de conclusão da disciplina de *Interação Homem-Computador* no 4º período do semestre 2014/2 do curso de Engenharia de Software da Universidade Federal de Goiás.
 
